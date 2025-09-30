@@ -42,7 +42,7 @@ Su reto es diseñar, construir e implementar la primera versión del sistema, si
 
 ### Principios SOLID
 
-#*Single Responsibility Principle (SRP)*
+# *Single Responsibility Principle (SRP)*
 
 Cómo se cumple: Cada clase tiene una única responsabilidad, entidades del dominio (Mascota, Cita) representan estado; Repositorios gestionan persistencia; Servicios de dominio realizan operaciones de negocio
 
